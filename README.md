@@ -1,6 +1,5 @@
-## Hi, I'm Roy! 👋
+## Hi, [I'm Roy!](https://trl242.github.io/PRSNL-Site/) 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data analysis for developing countries and healthcare focused businesses.
 - 🌱 I’m currently learning somehtign new everyday.
