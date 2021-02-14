@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on data analysis for developing countries and healthcare focused businesses.
-- 🌱 I’m currently learning somehtign new everyday.
+- 🌱 I’m currently learning something new everyday.
 - 👯 I’m looking to collaborate on innovative projects that bring ease to the complex parts of life.
 - 🤔 I’m looking for help with random projects.
 - 💬 Ask me about Programming, Business Development, fishing or The Bahamas.
